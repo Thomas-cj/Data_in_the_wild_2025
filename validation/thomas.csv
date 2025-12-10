@@ -1,4 +1,4 @@
-primary_author_name,gender
+primary_author_name, gender_thomas
 Jean Jacques Vanden Eynde, male
 Akash Patnaik, male
 Li‐Yuan Yu‐Lee, unknown
@@ -11,14 +11,14 @@ Jean Bruant, male
 Gary Cornell, male
 A Boyle, unknown
 J.L. Chkareuli, unknown
-Pentti Karioja, female 
+Pentti Karioja, female
 Eliane El Badaoui, female
 G. Le Bouëdec, unknown
 Thomas K. Landauer, male
 Nasreddine Sakhri, female
 Robert F. Murphy, male
-Brian Nolan, male
-Sreerupa Sengupta, male
+Brian Nolan,  male
+Sreerupa Sengupta, female
 John M. Inadomi, male
 Robert Libby, male
 Gail L. Daumit, male
@@ -26,15 +26,15 @@ Patrick J. Gillich, male
 Helen Balinsky, female
 David Bonan, male
 R.O. Schlingemann, unknown
-I. Michael Wormstone, male
+I. Michael Wormstone, unknown
 Tiffany Luong, female
-Andrea Louise Campbel, female
+Andrea Louise Campbell, female
 Barbara Sassen, female
 Emily A. Hewson, female
 Christine Granier, female
 Maare Marttila, female
 D. Anastasopoulos, unknown
-Juan Carlos González Moreno, male
+Juan Carlos González Moreno,  male
 Manuel Castillo‐Cara, male
 János Márki‐Zay, male
 K. Knyrim, unknown
@@ -51,7 +51,7 @@ Thomas Bremer, male
 Gernot Eisenlohr, male
 Tilmann Siebeneichner, male
 Jing Chen, unknown
-Catherine S. Chang, male
+Catherine S. Chang, female
 R.M. Mourik, unknown
 Eleni Palamara, female
 Mirat Shah, male
@@ -68,12 +68,12 @@ Godwin Udo, male
 Bruce Zagaris, male
 Yu‐Pin Lin, unknown
 Marie-Laure Chambonnière, female
-Venera Magrí, female
-Suling Li, female
-Archimede Forcellese, female
+Venera Magrí, female 
+Suling Li, unknown
+Archimede Forcellese, male
 Pranab J. Deka, male
 Sandra M. Leitner, female
-Eiji Kawasaki, female
+Eiji Kawasaki, unknown
 Nuno Henrique Pires Soares, male
 Alexander G. James, male
 M. Nikoonahad, unknown
@@ -82,7 +82,7 @@ Alvina Reihan, female
 A Boyle, unknown
 Jens Gempt, male
 Meghan McInnis Dominguez, female
-Bangshan Sun, male
+Bangshan Sun, unknown
 Vincent Riolo, male
 Adrien-Gabriel Bouché, male
 Gyanendra Awasthi, female
