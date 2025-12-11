@@ -4,3 +4,5 @@ dask
 names-dataset
 matplotlib
 seaborn
+numpy
+statsmodels
