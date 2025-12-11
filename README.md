@@ -7,7 +7,7 @@
 
 1. Install requirements.txt in a python environment with python >= 3.13.5
 
-2. Download the database *gender_db.duckdb* into the project directory from our google drive directly (~ 16GB) from the folder *duckdb_database* and skip database creation cells in the notebook
+2. Download the database *gender_db.duckdb* into the project directory from our google drive directly (~ 16GB) from the folder *duckdb_database* and skip database creation cells in the project notebook
 
 3. Unknown gender analysis can be reproduced by running *Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the main project directory
 
