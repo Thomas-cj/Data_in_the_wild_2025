@@ -1,0 +1,6 @@
+pandas
+duckdb
+dask
+names-dataset
+matplotlib
+seaborn
