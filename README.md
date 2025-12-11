@@ -9,9 +9,9 @@
 2. Download raw data into the project directory and run *1_Extract_works.py*, *2_Extract_Top_Level_Top-Cons.py* and *3_Add_Names_and_Genders.py* to create annotated data
 
 3. Run *4_gender_database_creation.ipynb* to generate duckdb database
-    - Optionally download the database $gender_db.duckdb$ into the project directory from our google drive directly (~ 16GB) and skip database creation in the notebook
+    - Optionally download the database *gender_db.duckdb* into the project directory from our google drive directly (~ 16GB) and skip database creation in the notebook
 
-4. Unknown gender analysis can be reproduced by running *Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the directory
+4. Unknown gender analysis can be reproduced by running *Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the main project directory
 
 5. Annotation validation can be reproduced by running *validation.ipynb* in the validation directory
 
