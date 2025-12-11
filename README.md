@@ -6,7 +6,7 @@
 
 1. Connect to our google drive using the link available on request and download raw snapshot data (~500 GB)
 
-2. Download raw data into the project directory and run *1_Extract_works.py*, *2_Extract_Top_Level_Top-Cons.py* and *3_Add_Names_and_Genders.py* to create 
+2. Download raw data into the project directory and run *1_Extract_works.py*, *2_Extract_Top_Level_Top-Cons.py* and *3_Add_Names_and_Genders.py* to create annotated data
 
 3. Run *4_gender_database_creation.ipynb* to generate duckdb database
     - Optionally download the database $gender_db.duckdb$ into the project directory from our google drive directly (~ 16GB) and skip database creation in the notebook
