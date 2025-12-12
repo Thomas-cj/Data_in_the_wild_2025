@@ -30,4 +30,4 @@
 
 6. Annotation validation can be reproduced by running *validation.ipynb* in the validation directory
 
-7. Statistical analysis can be reproduced by running 
+7. Statistical analysis can be reproduced by running  *7_statistical_analysis.ipynb* with *gender_db_duckdb* in the main project directory
