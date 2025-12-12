@@ -9,11 +9,11 @@
 2. Connect to our google drive using the link available on request and download the database *gender_db.duckdb* into the project directory (~ 16GB) from the folder *duckdb_database* and skip database creation cells in the project notebook
     - Link is available as a text file *drive.txt* in the project submission
 
-3. Unknown gender analysis can be reproduced by running *Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the main project directory
+3. Unknown gender analysis can be reproduced by running *5_Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the main project directory
 
-4. Annotation validation can be reproduced by running *validation.ipynb* in the validation directory
+4. Statistical analysis can be reproduced by running *6_statistical_analysis.ipynb* with *gender_db_duckdb* in the main project directory
 
-5. Statistical analysis can be reproduced by running 
+5.  Annotation validation can be reproduced by running *validation.ipynb* in the validation directory
 
 #### To reproduce our results from raw data (~500 GB download):
 
@@ -26,8 +26,8 @@
 
 4. Run *4_gender_database_creation.ipynb* to generate duckdb database using the cells marked with database creation
 
-5. Unknown gender analysis can be reproduced by running *Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the main project directory
+5. Unknown gender analysis can be reproduced by running *5_Unknown_gender_analysis.ipynb* with *gender_db.duckdb* in the main project directory
 
-6. Annotation validation can be reproduced by running *validation.ipynb* in the validation directory
+6. Statistical analysis can be reproduced by running *6_statistical_analysis.ipynb* with *gender_db_duckdb* in the main project directory
 
-7. Statistical analysis can be reproduced by running  *7_statistical_analysis.ipynb* with *gender_db_duckdb* in the main project directory
+7.  Annotation validation can be reproduced by running *validation.ipynb* in the validation directory
